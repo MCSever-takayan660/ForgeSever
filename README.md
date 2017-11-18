@@ -1,2 +1,2 @@
-# ForgeSever
+# MinecraftForgeSever
 Minecraft's Forge server
